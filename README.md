@@ -1,5 +1,6 @@
-# **Typed programming language for JVM**
-# Install IntelliJ?
+**Typed programming language for JVM**
 
-# About the language
+**Install IntelliJ?**
+
+**About the language**
 
