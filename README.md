@@ -38,3 +38,43 @@
     - "string 1 " + "string 2"
     - * Expressions have a value, statements do not
 
+6. Statements
+    - var item = "adfas"
+
+7. Null
+    - var str: String = null * error
+    - var str: String? = null * correct
+    - str?.length * correct
+    - str.length * error
+    - str!!.length * null pointer excception
+
+8. Conditionals
+    - if, same as always
+    - when * works like a switch
+
+        - var mode: Int = 3
+        when (mode) {
+            1 -> println("test")
+            2 -> println("ok")
+            else -> println("else this")
+        }
+
+        when (x) {
+            5 -> println("x is 10")
+            3*12 -> println("x is 3*12")
+            "hey there".length -> println("x is lenght of the string")
+            in 1..10 -> println("x is between 1 and 10")
+            in 11..20 -> println("x is between 11 and 20")
+            !in 11..20 -> println("x not between 11 and 20")
+        }
+
+9. Loops
+
+    - for (i in 1..10) {
+
+    }
+
+10. Functions
+    - See file functions.kt
+
+11. 
