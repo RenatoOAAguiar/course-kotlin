@@ -77,4 +77,16 @@
 10. Functions
     - See file functions.kt
 
-11. 
+11. Getter Setter
+    - Is not necessary, but can be override, all occour in abstract way
+
+12. Visibilities
+    - private
+    - public
+    - protected
+    - internal
+
+13. Generics
+
+14. Maps
+    - mapOf("Peter" to 24, "Roger" to 42)
